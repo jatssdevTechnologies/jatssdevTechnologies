@@ -74,6 +74,3 @@ I hope you find this README.md file helpful. Let me know if you have any questio
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdev5464&" alt="webdev5464" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdev5464&show_icons=true&locale=en&layout=compact" alt="webdev5464" /></p>
-
-****
-****
