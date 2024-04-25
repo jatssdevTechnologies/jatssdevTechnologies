@@ -12,7 +12,7 @@ I have been working as a web developer for several years, and I have experience 
 
 ## 💼 Professional Experience
 
-### Coding Cloud Institute <a href="https://codingcloudinstitute.com/">Click Here!</a>
+### <a href="https://codingcloudinstitute.com/">Coding Cloud Institute</a>
 
 I am currently working as a MERN stack web development instructor at Coding Cloud Institute. In this role, I teach students how to build web applications using modern JavaScript frameworks and libraries like React, Node.js, Express.js, and MongoDB.
 
