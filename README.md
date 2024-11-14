@@ -1,30 +1,43 @@
 <h1 align="center">Hi there, I'm Dev Dave 👋</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdev5464&theme=darkhub" alt="webdev5464" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=webdev5464&theme=darkhub" alt="webdev5464" />
+  </a>
+</p>
 
-<p align="center">I'm a passionate MERN stack developer from Ahmedabad, India. I specialize in building web applications using modern JavaScript frameworks and libraries like React, Node.js, Express.js, and MongoDB.</p>
-
+<p align="center">
+  I'm a passionate MERN stack developer from Ahmedabad, India. I specialize in building web applications using modern JavaScript frameworks and libraries like React, Node.js, Express.js, and MongoDB.
+</p>
 
 ## 🧑‍💻 About Me
 
-I have been working as a web developer for several years, and I have experience in building a wide range of web applications, from simple landing pages to complex e-commerce platforms. I am passionate about writing clean, efficient, and maintainable code, and I am always looking for new tools and technologies to improve my workflow.
+I am the founder of [JatssDev IT Institute](https://github.com/webdev5464), where we focus on teaching essential web and software development skills. Our goal is to provide high-quality training with hands-on experience in web development, mobile app development, data science, machine learning, and other IT fields. At JatssDev IT Institute, we strive to empower our students with industry-ready skills to help them succeed in their careers.
 
+Our courses include:
+
+* **Basic Web Development**: HTML, CSS, JavaScript
+* **MERN Stack**: Frontend, Backend, and Full Stack options
+* **PHP with Laravel**, **Next.js**, **UI/UX**, **Flutter Development**, **Core Java & Advanced Java**
+* **Data Science and Machine Learning (AI/ML)**
+* **Additional Skills**: Git, GitHub, Bootstrap, Tailwind CSS, CMD commands, and Mongo shell commands
+
+We offer ISO-certified certificates, internships, paid internship opportunities, job placement assistance, and experience certificates for interns. Students also have access to 24/7 doubt resolution through Google Meet, interview preparation, and live project opportunities.
 
 ## 💼 Professional Experience
 
-### <a href="https://codingcloudinstitute.com/">Coding Cloud Institute</a>
+### <a href="https://github.com/webdev5464">JatssDev IT Institute</a>
 
-I am currently working as a MERN stack web development instructor at Coding Cloud Institute. In this role, I teach students how to build web applications using modern JavaScript frameworks and libraries like React, Node.js, Express.js, and MongoDB.
+As the founder and MERN stack web development instructor, I teach and mentor students at JatssDev IT Institute, where we focus on practical, hands-on training to develop industry-ready skills.
 
-As a MERN stack web development instructor, I:
+Some of my responsibilities include:
 
-* Develop and deliver engaging and informative lectures on MERN stack web development topics.
-* Create and maintain course materials, including slides, code examples, and assignments.
-* Provide one-on-one support and guidance to students to help them overcome challenges and achieve their learning goals.
-* Collaborate with other instructors and staff to continuously improve the curriculum and learning experience.
-* Stay up-to-date with the latest trends and best practices in MERN stack web development.
+* Delivering engaging lectures and developing course materials
+* Providing one-on-one support to students for a personalized learning experience
+* Continuously updating our curriculum to keep up with the latest trends and best practices in web and software development
+* Collaborating with a team of instructors to enhance our training programs
 
-I am passionate about teaching and helping others learn, and I am committed to providing a high-quality learning experience for my students.
+I am committed to creating a supportive and productive learning environment for all our students.
 
 ## 🥇 Skills
 
@@ -37,15 +50,30 @@ Here are some of the technologies and tools that I am familiar with:
 * Bootstrap, TypeScript, and Python
 * Adobe Illustrator and Photoshop
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <!-- More icons can be added similarly -->
+</p>
 
 ## 🤳 Connect with Me
 
 You can find me on the following social media platforms:
 
 <p align="left">
-<a href="https://www.facebook.com/dev.dave.1023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev dave" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.dev_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dev_dave" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/dev.dave.1023/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev dave" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mr.dev_dave" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dev_dave" height="30" width="40" />
+  </a>
 </p>
 
 ## 📌 Projects
@@ -67,7 +95,9 @@ Programming languages are like puzzles to me. I enjoy solving complex problems a
 
 I hope you find this README.md file helpful. Let me know if you have any questions or if there's anything else I can help you with!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdev5464&label=Profile%20views&color=0e75b6&style=flat" alt="webdev5464" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=webdev5464&label=Profile%20views&color=0e75b6&style=flat" alt="webdev5464" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdev5464&show_icons=true&locale=en" alt="webdev5464" /></p>
 
