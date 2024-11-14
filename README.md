@@ -1,43 +1,43 @@
 <h1 align="center">Hi there, I'm Dev Dave 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=webdev5464&theme=darkhub" alt="webdev5464" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdev5464&theme=darkhub" alt="webdev5464" /></a> </p>
 
-<p align="center">
-  I'm a passionate MERN stack developer from Ahmedabad, India. I specialize in building web applications using modern JavaScript frameworks and libraries like React, Node.js, Express.js, and MongoDB.
-</p>
+<p align="center">I'm the founder of <strong>JatssDev IT Institute</strong> in Ahmedabad, India. We specialize in providing high-quality training in various IT domains, especially web development and programming, to help individuals build in-demand skills for the tech industry.</p>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About JatssDev IT Institute
 
-I am the founder of [JatssDev IT Institute](https://github.com/webdev5464), where we focus on teaching essential web and software development skills. Our goal is to provide high-quality training with hands-on experience in web development, mobile app development, data science, machine learning, and other IT fields. At JatssDev IT Institute, we strive to empower our students with industry-ready skills to help them succeed in their careers.
+JatssDev IT Institute is dedicated to empowering students and professionals with essential IT skills through hands-on courses and live projects. Our curriculum focuses on practical skills and real-world applications, ensuring that our students are job-ready upon completing their courses.
 
-Our courses include:
+## 📚 Courses Offered
 
-* **Basic Web Development**: HTML, CSS, JavaScript
-* **MERN Stack**: Frontend, Backend, and Full Stack options
-* **PHP with Laravel**, **Next.js**, **UI/UX**, **Flutter Development**, **Core Java & Advanced Java**
-* **Data Science and Machine Learning (AI/ML)**
-* **Additional Skills**: Git, GitHub, Bootstrap, Tailwind CSS, CMD commands, and Mongo shell commands
+Here is a list of the courses we offer at JatssDev IT Institute:
 
-We offer ISO-certified certificates, internships, paid internship opportunities, job placement assistance, and experience certificates for interns. Students also have access to 24/7 doubt resolution through Google Meet, interview preparation, and live project opportunities.
+1. **Basic Web Development** - HTML, CSS, JavaScript | Duration: 2 months
+2. **MERN Stack Full Development** - Frontend, Backend, Full Stack | Duration: 4 months
+3. **MERN Stack (Frontend)** - React, Redux, Tailwind CSS | Duration: 3 months
+4. **MERN Stack (Backend)** - Node.js, Express, MongoDB | Duration: 1 month
+5. **PHP with Laravel** | Duration: 4 months
+6. **Next.js Development** | Duration: 4 months
+7. **UI/UX Design** - CorelDraw, Illustrator, Figma | Duration: 3 months
+8. **Flutter Development (Android)** | Duration: 4-5 months
+9. **Data Science and Machine Learning (AI/ML)** | Duration: 4-5 months
+10. **C, C++** | Duration: 2 months
+11. **Core Java and Advanced Java** | Duration: 3 months
+12. **React Native** (after MERN stack completion) | Duration: 2 months
 
-## 💼 Professional Experience
+## ✨ Institute Features
 
-### <a href="https://github.com/webdev5464">JatssDev IT Institute</a>
+At JatssDev IT Institute, we offer several unique features to support a high-quality learning experience:
 
-As the founder and MERN stack web development instructor, I teach and mentor students at JatssDev IT Institute, where we focus on practical, hands-on training to develop industry-ready skills.
-
-Some of my responsibilities include:
-
-* Delivering engaging lectures and developing course materials
-* Providing one-on-one support to students for a personalized learning experience
-* Continuously updating our curriculum to keep up with the latest trends and best practices in web and software development
-* Collaborating with a team of instructors to enhance our training programs
-
-I am committed to creating a supportive and productive learning environment for all our students.
+* **Cleaning and CCTV Surveillance** - Clean, secure environment with 24/7 surveillance
+* **Fire Extinguishers** - Ensuring safety at all times
+* **24/7 Doubt Resolution** - Google Meet support for questions anytime
+* **Interview Preparation & Job Placements** - Helping students get job-ready
+* **Free Wi-Fi** - High-speed internet for research and assignments
+* **Pantry with Free Tea** - Available anytime for faculty and interns
+* **ISO-Certified Certificates** - Recognition of skills upon course completion
+* **Experience Certificates for Interns** - Credible experience documentation
+* **Live Project Opportunities** - Real-world experience for skilled students
 
 ## 🥇 Skills
 
@@ -50,57 +50,27 @@ Here are some of the technologies and tools that I am familiar with:
 * Bootstrap, TypeScript, and Python
 * Adobe Illustrator and Photoshop
 
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- More icons can be added similarly -->
-</p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ## 🤳 Connect with Me
 
 You can find me on the following social media platforms:
 
 <p align="left">
-  <a href="https://www.facebook.com/dev.dave.1023/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev dave" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mr.dev_dave" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dev_dave" height="30" width="40" />
-  </a>
+<a href="https://www.facebook.com/dev.dave.1023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev dave" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.dev_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dev_dave" height="30" width="40" /></a>
 </p>
 
-## 📌 Projects
+## 📌 Contact Us
 
-Here are some of the projects that I have worked on:
+Feel free to reach out to us for any inquiries or enrollment information at JatssDev IT Institute:
 
-* [JavaScript Documentation for learning](https://github.com/webDev5464/JavaScript-README.git)
-* [MERN stack E-commerce](https://github.com/webDev5464/dev-store.git)
+- **Institute Address**: AWS 3, B BLOCK 415 4th floor, Manav Mandir Rd, Opposite Indian Oil Petrol, Sushil Nagar Society, Memnagar, Ahmedabad 380052
+- **Phone**: 9157182016 (Deven) | 6351913677 (HR)
+- **Email**: jatssdevinstitute@gmail.com
 
-Feel free to check them out and let me know what you think!
+We're excited to help you take the next steps in your tech career. Join us and start your journey with JatssDev IT Institute!
 
-## 🤝 How to Reach Me
+---
 
-You can reach me at [devendhagat0@gmail.com](mailto:devendhagat0@gmail.com).
-
-## 🃏 Fun Fact
-
-Programming languages are like puzzles to me. I enjoy solving complex problems and building elegant solutions using code.
-
-I hope you find this README.md file helpful. Let me know if you have any questions or if there's anything else I can help you with!
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=webdev5464&label=Profile%20views&color=0e75b6&style=flat" alt="webdev5464" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdev5464&show_icons=true&locale=en" alt="webdev5464" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdev5464&" alt="webdev5464" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdev5464&show_icons=true&locale=en&layout=compact" alt="webdev5464" /></p>
+<p align="center">"Empowering Tomorrow's Tech Leaders, One Skill at a Time"</p>
