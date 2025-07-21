@@ -54,13 +54,6 @@ Here are some of the technologies and tools that I am familiar with:
 - Bootstrap, TypeScript, and Python  
 - Adobe Illustrator and Photoshop  
 
-## 🤳 Connect with Me  
-
-You can find me on the following social media platforms:  
-
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/dev.dave.1023/)  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mr.dev_dave)  
-
 ## 📌 Contact Us
 
 Feel free to reach out to us for any inquiries or enrollment information at Jatssdev Technologies:
